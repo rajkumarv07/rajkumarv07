@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @rajkumarv07
 - 👀 I’m interested in learning Wed Development.
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,JAVA,PYTHON,C, soon starts RUST !!
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,JAVA,PYTHON,C and many more!!
 - 💞️ I’m looking to collaborate on Wed Developing and a lot more.
-- 📫 How to reach me "rajkumarvullengala@gmail.com"
+- 📫 How to reach me "rajkumarvullengala@gmail.com" & Linkedin: "www.linkedin.com/in/rajkumar-vullengala-94bb95306"
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: im a tech enthusiast, who wanna make thinks easy with tech & AI..      "INTRO/EXTROVERT"!
+- ⚡ Fun fact: im a  technophile ...    "INTRO/EXTROVERT"!
 
 <!---
 rajkumarv07/rajkumarv07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
